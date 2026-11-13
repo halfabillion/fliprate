@@ -1,0 +1,4 @@
+# FlipRate scaffold — small local deps only. No paid APIs.
+# Python 3.11+ recommended. Parsing, grading, metrics, and the
+# Ollama client use the standard library (json, urllib, unittest, statistics).
+matplotlib>=3.8
